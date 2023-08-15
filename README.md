@@ -14,4 +14,4 @@ To run:
 ./webping hostname
 ```
 
-![WebPing Example](https://i.ibb.co/B2VLzRV/webping-output.jpg | width=200)
+<img src="https://i.ibb.co/B2VLzRV/webping-output.jpg" width="200" height="400" />
