@@ -14,4 +14,4 @@ To run:
 ./webping hostname
 ```
 
-![WebPing Example](https://github.com/Joel598/webping-c/blob/main/webping%20output.png)
+![WebPing Example](https://i.ibb.co/B2VLzRV/webping-output.jpg)
