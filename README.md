@@ -13,3 +13,4 @@ To run:
 ```bash
 ./webping hostname
 ```
+![WebPing Example](https://github.com/Joel598/webping-c/blob/main/webping%20output.PNG)
